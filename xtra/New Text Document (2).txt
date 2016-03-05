@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="mn.css"><script type="text/javascript"></script>
+</head>
+<body>
+<button onclick="n()">G</button>
+<script>
+
+function n() {
+  var nombre;
+  var edad;
+  var a;
+
+  nombre=prompt('Ingrese su nombre:','');
+  edad=alert('Ahora ingresalo pero de manera deletreada:');
+  a=prompt('Ingrese la 1ra letra:','');
+  b=prompt('Ingrese la 2da letra:','');
+  c=prompt('Ingrese la 3ra letra:','');
+  d=prompt('Ingrese la 4ra letra:','');
+  e=prompt('Ingrese la 5ra letra:','');
+  f=prompt('Ingrese su 6ta letra:','');
+  fin=alert('Terminaste?','');
+ document.write('mi amor,espero te guste ,');
+  document.write(nombre);
+  document.write("<br />");
+  document.write(a);
+  document.write(' o se ni como ni cuando paso,aveces creo que fue algo ,');
+  document.write("<br />");
+  document.write(b);
+  document.write(' nstantaneo, ya que no se como explicarte esto,');
+  document.write("<br />");
+  document.write(c);
+  document.write(' nstantaneo, ya que no se como explicarte esto,');
+  document.write("<br />");
+  document.write(d);
+  document.write(' nstantaneo, ya que no se como explicarte esto,');
+  document.write("<br />");
+  document.write(e);
+  document.write(' nstantaneo, ya que no se como explicarte esto,');
+  document.write("<br />");
+  document.write(f);
+  document.write(' nstantaneo, ya que no se como explicarte esto,');
+}
+</script>
+</body>
+</html>
+
+
+http://slideful.com/online-slideshow-maker-v1/size.htm?id=20160229_1049087947107997&t=20160229104201
